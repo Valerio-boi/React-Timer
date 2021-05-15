@@ -1,6 +1,6 @@
 # React-Timer
 
-![Project img](https://github.com/Valerio-boi/React-Timer/blob/main/CalculatoreImg.png)
+![Project img](https://github.com/Valerio-boi/React-Timer/blob/main/timer.png)
 
 <h1>What's this</h1>
 
